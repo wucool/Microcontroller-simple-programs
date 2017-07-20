@@ -39,11 +39,11 @@ ReadTypeDef_t	ReadTypeDef;
   */
 int main(void)
 {
-	uint8_t key=0;
+	 uint8_t key=0;
 	uint8_t led_status=0;
 	#if 0
 		SystemInit();	
-		LED_GPIO_Init();	
+			LED_GPIO_Init();	
 	  KEY_GPIO_Init();
 		Motor_Init();
 	
@@ -63,11 +63,12 @@ int main(void)
 	#endif
 	#if 1
 	uint8_t p0_control_buf[MAX_P0_LEN];
+	
 	SystemInit();	
 	HW_Init();
 	Printf_SystemRccClocks();
 	SW_Init();
-	while(1)
+		while(1)
 	{
 		key= Get_Key();
 		if(key==1)
