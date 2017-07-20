@@ -70,10 +70,16 @@ int main(void)
 	SW_Init();
 		while(1)
 	{
+		LED_RGB_Control(0,0,0);
+		Motor_status(5);
+		for(uint8_t i=1;i<5;i++)
+			{
+				LED_OFF(i);
+			}
 		key= Get_Key();
 		if(key==1)
 		{
-			Delay_ms(100);
+			Delay_ms(10);
 			key= Get_Key();
 			if(key==1)
 				 led_status=~led_status;
@@ -85,8 +91,20 @@ int main(void)
 			LED_RGB_Control(0,0,0);
 			for(uint8_t i=1;i<5;i++)
 			{
+				
+				if(Get_Key())
+					 break;
 				LED_ON(i);
-				Delay_ms(200);
+				Delay_ms(50);
+				if(Get_Key())
+					 break;
+				Delay_ms(50);
+				if(Get_Key())
+					 break;
+				Delay_ms(50);
+				if(Get_Key())
+					 break;
+				Delay_ms(50);
 				LED_OFF(i);
 				//Delay_ms(300);
 			}
@@ -96,6 +114,9 @@ int main(void)
 			Motor_status(3);
 			for(uint8_t a=0;a<245;a+=8)
 			 {			  
+					
+				 	if(Get_Key())
+					  break;
 					LED_RGB_Control(a,a,a);
 				  Delay_ms(30);
 				  
