@@ -1,0 +1,74 @@
+/*************************/
+关于马达的控制
+马达的控制不同于二极管
+单片机的控制要符合物理器件的工作原理
+1. 二极管，控制导通电压值来控制亮灭
+2. 马达的工作需要控制哪些参数（阅读马达的初始化可知一二）
+3. 蜂鸣器的控制（这个记得以前有同事调过蜂鸣器的发音，调出不同的音色，这个就需要了解蜂鸣器的工作原理
+貌似有个关键词叫做占空比）
+
+单片机的学习开发，不仅仅是C语言，也需要对硬件的工作原理有了解
+这也是需要学习的地方
+/*************************/
+
+
+
+/*****************************************/
+代码pin口相关配置
+/****************************************/
+####USART1 2 3 难道有3个UART?
+USART1_TxPin             GPIO_Pin_9
+USART1_RxPin             GPIO_Pin_10
+USART2_RxPin             GPIO_Pin_3
+USART2_TxPin             GPIO_Pin_2
+USART3_RxPin             GPIO_Pin_11
+USART3_TxPin             GPIO_Pin_10
+
+##貌似温湿度传感器DHT11_Init(void)
+Hal_temp_hum.h:12:                        
+GPIO_InitStruct.GPIO_Pin = GPIO_Pin_3
+
+## 红外infrared
+Infrared_GPIO_PIN          GPIO_Pin_7
+
+## motor
+GPIO_InitStructure.GPIO_Pin =  GPIO_Pin_4 | GPIO_Pin_5
+
+## 按键KEY
+GPIO_KEY1_PIN    GPIO_Pin_10
+GPIO_KEY2_PIN    GPIO_Pin_8
+GPIO_KEY3_PIN    GPIO_Pin_13
+
+## RGB LED
+GPIO_InitStruct.GPIO_Pin = GPIO_Pin_8|GPIO_Pin_9
+SCL_LOW      GPIO_ResetBits(GPIOB,GPIO_Pin_8)
+SCL_HIGH     GPIO_SetBits(GPIOB,GPIO_Pin_8)
+SDA_LOW      GPIO_ResetBits(GPIOB,GPIO_Pin_9)
+SDA_HIGH     GPIO_SetBits(GPIOB,GPIO_Pin_9)
+
+
+## GPIO_LED
+GPIO_LED1_PIN			GPIO_Pin_15
+GPIO_LED2_PIN			GPIO_Pin_14
+GPIO_LED3_PIN			GPIO_Pin_11
+GPIO_LED4_PIN			GPIO_Pin_1
+
+//#################################
+//#################################
+GPIO_Pin_0                 ((uint16_t)0x0001)
+GPIO_Pin_1                 ((uint16_t)0x0002)
+GPIO_Pin_2                 ((uint16_t)0x0004)
+GPIO_Pin_3                 ((uint16_t)0x0008)
+GPIO_Pin_4                 ((uint16_t)0x0010)
+GPIO_Pin_5                 ((uint16_t)0x0020)
+GPIO_Pin_6                 ((uint16_t)0x0040)
+GPIO_Pin_7                 ((uint16_t)0x0080)
+GPIO_Pin_8                 ((uint16_t)0x0100)
+GPIO_Pin_9                 ((uint16_t)0x0200)
+GPIO_Pin_10                ((uint16_t)0x0400)
+GPIO_Pin_11                ((uint16_t)0x0800)
+GPIO_Pin_12                ((uint16_t)0x1000)
+GPIO_Pin_13                ((uint16_t)0x2000)
+GPIO_Pin_14                ((uint16_t)0x4000)
+GPIO_Pin_15                ((uint16_t)0x8000)
+GPIO_Pin_All               ((uint16_t)0xFFFF)
