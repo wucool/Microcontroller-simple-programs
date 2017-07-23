@@ -39,12 +39,12 @@ ReadTypeDef_t	ReadTypeDef;
   */
 int main(void)
 {
-	 uint8_t key=0;
+	uint8_t key=0;
 	uint8_t led_status=0;
 	#if 0
 		SystemInit();	
-			LED_GPIO_Init();	
-	  KEY_GPIO_Init();
+		LED_GPIO_Init();	
+		KEY_GPIO_Init();
 		Motor_Init();
 	
 	while(1)
@@ -69,17 +69,24 @@ int main(void)
 	Printf_SystemRccClocks();
 	SW_Init();
 		while(1)
-	{
+	{	
+		/**初始化 各个控件状态 start......**/	
+		//初始 关闭RGB_LED
 		LED_RGB_Control(0,0,0);
+		//初始 关闭马达
 		Motor_status(5);
+		//初始 关闭4个LED灯
 		for(uint8_t i=1;i<5;i++)
 			{
 				LED_OFF(i);
 			}
+		/**初始化 各个控件状态 end......	**/
+		
+		/** 定义变量led_status 用来表示按键状态，每当有key1键按下 **/
 		key= Get_Key();
 		if(key==1)
 		{
-			Delay_ms(10);
+			Delay_ms(10);//增加延时 防抖
 			key= Get_Key();
 			if(key==1)
 				 led_status=~led_status;
@@ -87,8 +94,14 @@ int main(void)
 		printf("-----key=%d----led_status=%d-------..\r\n",key,led_status);
 		if(led_status==0)
 		{
-			Motor_status(5);
-			LED_RGB_Control(0,0,0);
+			/** the function is LED等循环点亮，间隔为200ms **/
+			
+			Motor_status(5);//关闭马达
+			LED_RGB_Control(0,0,0);//关闭RGB_LED
+			
+			/** 1~4LED灯循环亮灭，**/
+			//将延时切片了，每50ms检测下是否有按键按下，
+			//避免了led亮灭指令后的延时过程中，有按键按下，没有响应的问题
 			for(uint8_t i=1;i<5;i++)
 			{
 				
@@ -108,18 +121,20 @@ int main(void)
 				LED_OFF(i);
 				//Delay_ms(300);
 			}
+			
 		}
 		else
 		{
+			/** the funtion is 转动马达，LED_RGB灯点亮（根据传入RGB颜色显示）**/
 			Motor_status(3);
 			for(uint8_t a=0;a<245;a+=8)
 			 {			  
 					
-				 	if(Get_Key())
-					  break;
-					LED_RGB_Control(a,a,a);
-				  Delay_ms(30);
-				  
+				if(Get_Key()) //LED_RGB灯闪烁的时候对按键的检测
+					break;
+				
+				LED_RGB_Control(a,a,a);
+				Delay_ms(30);  
 				 printf("----a=%d----------..\r\n",a);
 			 }
 			//Motor_status(7);
