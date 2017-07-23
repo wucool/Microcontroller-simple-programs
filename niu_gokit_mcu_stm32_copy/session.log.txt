@@ -1,0 +1,542 @@
+#####HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+
+System start...
+SYSCLKSource is PL!
+SYS clock =72MHz 
+HCLK clock =72MHz 
+PCLK1 clock =36MHz 
+PCLK2_clock =72MHz 
+SADCCLK_Frequencyclock =36MHz 
+Gokit Init Ok ...
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 255
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB start 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+####DELAY_TIME_Brake  now Get_Key= 0
+####DELAY_TIME_Brake  now led_control= 0
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:2222 Open motor  close RGB end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor end 
+######HANDLE_Key_After_Press  status:1111 Open LED  close motor start
