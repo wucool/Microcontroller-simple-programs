@@ -25,7 +25,7 @@ uint8_t Set_LedStatus = 0;
 uint8_t NetConfigureFlag = 0;
 uint8_t curTem = 0, curHum = 0;
 uint8_t lastTem = 0,lastHum = 0;
-
+bool led_status=false;
 extern RingBuffer u_ring_buff;
 uint8_t p0Flag = 0;
 
@@ -40,28 +40,44 @@ ReadTypeDef_t	ReadTypeDef;
 int main(void)
 {
 	uint8_t key=0;
-	uint8_t led_status=0;
-	#if 0
-		SystemInit();	
-		LED_GPIO_Init();	
-		KEY_GPIO_Init();
-		Motor_Init();
+	//uint8_t led_status=0;
+	#if 1
+	uint8_t p0_control_buf[MAX_P0_LEN];
 	
+	SystemInit();	
+	HW_Init();
+	Printf_SystemRccClocks();
+	SW_Init();
 	while(1)
-	{
-    LED_ON(LED1);
-    LED_ON(LED2);
-    LED_ON(LED3);
-    LED_ON(LED4);
-		Delay_ms(500);
-		LED_OFF(LED1);
-    LED_OFF(LED2);
-    LED_OFF(LED3);
-    LED_OFF(LED4);
-		Delay_ms(500);
+	{	
+		LED_RGB_Control(0,0,0);
+		//初始 关闭马达
+		Motor_status(5);
+		//初始 关闭4个LED灯
+		for(uint8_t i=1;i<5;i++)
+		{
+			LED_OFF(i);
+		}
+
+		if(led_status==false)
+		{
+			for(uint8_t i=1;i<5;i++)
+			{	
+				LED_ON(i);
+				Delay_ms(100);
+				LED_OFF(i);
+				Delay_ms(100);
+			}		
+		}
+		else
+		{
+			Motor_status(3);
+			LED_RGB_Control(50,50,50);
+			Delay_ms(200); 
+		}
 	}
 	#endif
-	#if 1
+	#if 0
 	uint8_t p0_control_buf[MAX_P0_LEN];
 	
 	SystemInit();	

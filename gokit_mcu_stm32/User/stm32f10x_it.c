@@ -20,13 +20,13 @@
 #include "Protocol.h"
 #include "Hal_infrared/Hal_infrared.h"
 #include "Hal_key/Hal_key.h"
-
+#include "delay.h"
 extern uint8_t							  gaterSensorFlag ;
 extern Pro_Wait_AckTypeDef           	  Wait_AckStruct;
 extern uint32_t                           SystemTimeCount ;
 extern uint8_t 							  KeyCountTime;
 extern RingBuffer 						  u_ring_buff;
-
+extern bool led_status;
 uint8_t last_data = 0;
 uint16_t gaterTime = 0;
 
@@ -264,7 +264,7 @@ void RTC_IRQHandler(void)
 }
 
 
-
+/*
 #define  Infrared_EXTI_IRQHandler EXTI9_5_IRQHandler
 void Infrared_EXTI_IRQHandler (void)
 {
@@ -286,7 +286,34 @@ void Infrared_EXTI_IRQHandler (void)
 	}	
 	
 	EXTI->EMR |= (uint32_t)(1<<1);  										//??????  
+}*/
+
+void EXTI9_5_IRQHandler(void)
+{
+	
+		printf("EXTI9_5_IRQHandler...\r\n");
+		if(!GPIO_ReadInputDataBit(Infrared_GPIO_PORT, Infrared_GPIO_PIN))
+		{		
+			printf("-----------Infrared------1----\r\n");
+			led_status=!led_status;	
+		}	
+
+		EXTI_ClearITPendingBit(Infrared_EXTI_LineX);
+
 }
+void EXTI15_10_IRQHandler(void)         //???:EXTI15_10 (??????10~15??????)  
+{    
+printf("EXTI15_10_IRQHandler...\r\n");
+		Delay_ms(10);	
+	  if(!GPIO_ReadInputDataBit(GPIO_KEY1_PORT,GPIO_KEY1_PIN))
+    {
+      printf("------EXTI15_10_IRQHandler--------...\r\n");  
+		  led_status=!led_status;			
+    }
+
+		EXTI_ClearITPendingBit(EXTI_Line10);  
+} 
+
 /**
   * @}
   */

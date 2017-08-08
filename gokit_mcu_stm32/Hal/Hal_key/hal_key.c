@@ -26,22 +26,54 @@ uint8_t 				KeyCountTime;
 * Return         : None
 * Attention		 : None
 *******************************************************************************/
+
+void KEY1_GPIO_interrupt_Init(void)
+{
+    NVIC_InitTypeDef NVIC_InitStructure;  
+    EXTI_InitTypeDef EXTI_InitStructure;  
+    GPIO_InitTypeDef GPIO_InitStructure;   
+      
+    RCC_APB2PeriphClockCmd(GPIO_KEY1_CLK |RCC_APB2Periph_AFIO, ENABLE);//??GPIO AFIO???  
+    GPIO_InitStructure.GPIO_Pin = GPIO_KEY1_PIN;  
+		GPIO_InitStructure.GPIO_Speed = GPIO_Speed_2MHz;  
+		//GPIO_InitStructure.GPIO_Mode = GPIO_Mode_IPD;
+		GPIO_InitStructure.GPIO_Mode =GPIO_Mode_IPU;  
+		GPIO_Init(GPIO_KEY1_PORT, &GPIO_InitStructure);   
+          
+    EXTI_ClearITPendingBit(EXTI_Line10);  
+    GPIO_EXTILineConfig(GPIO_PortSourceGPIOB,GPIO_PinSource10);//PC11  ?GPIOC?PIN11  
+    EXTI_InitStructure.EXTI_Line= EXTI_Line10; //PC11,?:EXTI_Line11  
+    EXTI_InitStructure.EXTI_Mode= EXTI_Mode_Interrupt;   
+   // EXTI_InitStructure.EXTI_Trigger= EXTI_Trigger_Rising_Falling;   //???????????
+		EXTI_InitStructure.EXTI_Trigger= EXTI_Trigger_Falling; 
+    EXTI_InitStructure.EXTI_LineCmd=ENABLE;  
+    EXTI_Init(&EXTI_InitStructure);  
+          
+    NVIC_PriorityGroupConfig(NVIC_PriorityGroup_1);   //NVIC  
+    NVIC_InitStructure.NVIC_IRQChannel = EXTI15_10_IRQn;  
+    NVIC_InitStructure.NVIC_IRQChannelPreemptionPriority= 0;  
+    NVIC_InitStructure.NVIC_IRQChannelSubPriority= 2;          
+    NVIC_InitStructure.NVIC_IRQChannelCmd=ENABLE;     
+    NVIC_Init(&NVIC_InitStructure);  
+		
+}
 void KEY_GPIO_Init(void)
 {
     GPIO_InitTypeDef GPIO_InitStructure;
-    RCC_APB2PeriphClockCmd(GPIO_KEY1_CLK | GPIO_KEY2_CLK | GPIO_KEY3_CLK, ENABLE);
-
+   // RCC_APB2PeriphClockCmd(GPIO_KEY1_CLK |GPIO_KEY2_CLK | GPIO_KEY3_CLK, ENABLE);
+		RCC_APB2PeriphClockCmd(GPIO_KEY2_CLK | GPIO_KEY3_CLK, ENABLE);
     GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;
     GPIO_InitStructure.GPIO_Mode = GPIO_Mode_IPU;
 
-    GPIO_InitStructure.GPIO_Pin = GPIO_KEY1_PIN;
-    GPIO_Init(GPIO_KEY1_PORT, &GPIO_InitStructure);
+//    GPIO_InitStructure.GPIO_Pin = GPIO_KEY1_PIN;
+//    GPIO_Init(GPIO_KEY1_PORT, &GPIO_InitStructure);
 
     GPIO_InitStructure.GPIO_Pin = GPIO_KEY2_PIN;
     GPIO_Init(GPIO_KEY2_PORT, &GPIO_InitStructure);
 
     GPIO_InitStructure.GPIO_Pin = GPIO_KEY3_PIN;
     GPIO_Init(GPIO_KEY3_PORT, &GPIO_InitStructure);
+		KEY1_GPIO_interrupt_Init();
 }
 
 /*******************************************************************************
